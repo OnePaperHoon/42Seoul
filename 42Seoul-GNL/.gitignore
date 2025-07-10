@@ -1,0 +1,6 @@
+.DS*
+a.out
+*.o
+.vs*
+*.txt
+*.dSYM
